@@ -386,7 +386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 788587e994f1943f3856c1c332db429b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AnchorPrefab: {fileID: 6130534244405139856, guid: ed0ea495a2855d94f86ba60d956d2823,
+  m_AnchorPrefab: {fileID: 5794884066424421450, guid: d06d3e659b338b644b29cd6d80be2bbc,
     type: 3}
 --- !u!1 &705507993
 GameObject:

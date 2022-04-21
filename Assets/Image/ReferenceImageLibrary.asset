@@ -16,22 +16,12 @@ MonoBehaviour:
   m_GuidHigh: 1749633131338119341
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4826477116379893595
-      m_GuidHigh: 284382341449154447
+      m_GuidLow: 4826191212271154267
+      m_GuidHigh: 3671267876140099240
     m_SerializedTextureGuid:
-      m_GuidLow: 10116363896248901690
-      m_GuidHigh: 2802540089667295339
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: 2
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 4901444147975340158
-      m_GuidHigh: 1727829854660711577
-    m_SerializedTextureGuid:
-      m_GuidLow: 11548635273384769669
-      m_GuidHigh: 879974434074668667
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: 1
+      m_GuidLow: 13124650587432317561
+      m_GuidHigh: 12901603729268957035
+    m_Size: {x: 0.17769377, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GettyImages-629362273pth-eead9c8
     m_Texture: {fileID: 0}

@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes: []
   m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: a1434960b3fa104499c8bce82b8b3102,
+      type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 7e5c3082afca2154395cf5cf897278e4,
+      type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: add60382842c3df4f9737bb249bb4374,
@@ -19,4 +23,6 @@ EditorBuildSettings:
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 3dfd02d32fe6d9949b43e418c9113643,
       type: 2}

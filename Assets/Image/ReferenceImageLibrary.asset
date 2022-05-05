@@ -23,5 +23,15 @@ MonoBehaviour:
       m_GuidHigh: 12901603729268957035
     m_Size: {x: 0.17769377, y: 0.1}
     m_SpecifySize: 1
-    m_Name: GettyImages-629362273pth-eead9c8
+    m_Name: Sphere
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5170935057070047994
+      m_GuidHigh: 5394911861318832053
+    m_SerializedTextureGuid:
+      m_GuidLow: 2951181204087946352
+      m_GuidHigh: 12119189648097418138
+    m_Size: {x: 0.1, y: 0.10334573}
+    m_SpecifySize: 1
+    m_Name: Banjo Lessopn
     m_Texture: {fileID: 0}

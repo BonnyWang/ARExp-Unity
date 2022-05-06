@@ -7,11 +7,9 @@ public class ImageTrackAction : MonoBehaviour
 {
     public ARTrackedImageManager manager;
     public GameObject textPrefab;
-    public GameObject Text;
     void Start()
     {
         // manager = GetComponent<ARTrackedImageManager>();
-        Text.GetComponent<UnityEngine.UI.Text>().text = "??????????????";
     }
 
     void OnEnable() => manager.trackedImagesChanged += OnChanged;
@@ -33,7 +31,6 @@ public class ImageTrackAction : MonoBehaviour
             imageText.GetComponent<TextMesh>().text = newImage.referenceImage.name;
             imageText.transform.parent = newImage.transform;
             // newImage.GetComponent<TextMesh>().text = newImage.referenceImage.name;
-            Text.GetComponent<UnityEngine.UI.Text>().text = newImage.referenceImage.name;
 
 
         }

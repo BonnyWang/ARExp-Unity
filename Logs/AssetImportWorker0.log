@@ -141,3 +141,4 @@ Received Import Request.
   path: Assets/Prefab/Text.prefab
   artifactKey: Guid(f8bf97e7c0bfd134aa6a0bac484d5cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefab/Text.prefab using Guid(f8bf97e7c0bfd134aa6a0bac484d5cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6af3fbfb2ebc5a30d59ad320797135') in 0.005394 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
